@@ -1,4 +1,4 @@
 # MyFirstRepo
 This is my first git repository
 <br>
-Author:Sara
+Author:Sara Saini
